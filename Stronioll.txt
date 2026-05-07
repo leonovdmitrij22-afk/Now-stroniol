@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Про мене</title>
+</head>
+<body>
+
+<a href="index.html">Головна</a> |
+<a href="about.html">Про мене</a>
+
+<h1>Про сторінку</h1>
+<p>Це друга сторінка мого сайту на GitHub Pages.</p>
+
+</body>
+</html>
